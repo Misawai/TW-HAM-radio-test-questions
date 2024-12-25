@@ -4,7 +4,7 @@ Structured questions set of amateur radio operator licence test in Taiwan.
 ## Introduction
 Amateur radio operator licence test in Taiwan are held in a rolling basis by the National Communication Commission (NCC) on every Monday, Wednesday and Friday. All test questions in used has been published by the NCC with free access. 
 
-As the orginal sets were presented in PDF, with no structured, I have extracted those questions into JSON files, aiding developers ,test takers and HAM lovers to study in a more structual way.
+As the orginal sets were presented in PDF, with no structured, I have extracted those questions into JSON files, aiding developers, test takers and HAM lovers to study in a more structual way.
 
 ## Copyright Claim
 These test sets are in **Public Domain**.
