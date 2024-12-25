@@ -11,7 +11,7 @@ These test sets are in **Public Domain**.
 
 According to [Subparagraph 5, Paragraph 1, Article 9 of the *Copyright Act*](https://law.moj.gov.tw/ENG/LawClass/LawSearchContent.aspx?pcode=J0070017&norge=9), "Test questions and alternative test questions from all kinds of examinations held pursuant to acts or regulations" shall not be the subject matter of copyright. 
 
-Thus, this test sets are in **Public Domain**, since they are test questions and alternative test questions from examinations held pursuant to the [*Telecommunications Management Act*](https://law.moj.gov.tw/ENG/LawClass/LawAll.aspx?pcode=K0060111) and the [*Administrative Regulations of Amateur Radio Operators and Radio Stations*](https://law.moj.gov.tw/ENG/LawClass/LawAll.aspx?pcode=K0060145), and could not be a subject matter of copyright. 
+Thus, this test sets are in **Public Domain**, since they are test questions and alternative test questions from examinations held pursuant to the [*Telecommunications Management Act*](https://law.moj.gov.tw/ENG/LawClass/LawAll.aspx?pcode=K0060111) and the [*Administrative Regulations of Amateur Radio Operators and Radio Stations*](https://law.moj.gov.tw/ENG/LawClass/LawAll.aspx?pcode=K0060145), which could not be a subject matter of copyright. 
 
 # 臺灣業餘無線電人員資格測試題庫 (JSON)
 經 JSON 格式結構化處理過後的臺灣業餘無線電人員資格測試題庫。
