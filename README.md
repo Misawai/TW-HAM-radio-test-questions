@@ -1,4 +1,4 @@
-# HAM Radio Operator Licence Test Sets in Taiwan
+# Amateur Radio Operator Licence Test Sets in Taiwan
 Structured questions set of amateur radio operator licence test in Taiwan.
 
 ## Introduction
